@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: jixing-consumer-xuanke
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: lzq
+Implementation-Vendor-Id: com.jixing
+Build-Jdk: 1.8.0_92
+Implementation-URL: http://projects.spring.io/spring-boot/JIXING/jixin
+ g-consumer-xuanke/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
